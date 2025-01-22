@@ -1,0 +1,1 @@
+Este é um projeto desenvolvido como parte de um desafio de lógica de programação proposto pela plataforma Alura. O objetivo deste desafio é praticar e aprimorar as habilidades de programação utilizando JavaScript, manipulando arrays, loops e interações com o DOM para criar um sorteio de amigo secreto.
